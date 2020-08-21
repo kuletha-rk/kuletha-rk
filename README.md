@@ -1,4 +1,4 @@
-### Hi, this is Rishabh, working as Business Analyst. Feel free to coonect with me in linkedin! 👋
+### Hi, this is Rishabh, working as Business Analyst. Feel free to connect with me via linkedin! 👋
 
 📫 How to reach me : https://www.linkedin.com/in/rishabh-kuletha-195375179/
 
