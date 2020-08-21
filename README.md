@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, this is Rishabh, working as Business Analyst. Feel free to coonect with me in linkedin! 👋
+
+📫 How to reach me : https://www.linkedin.com/in/rishabh-kuletha-195375179/
+
+<img src = "https://media-exp1.licdn.com/dms/image/C5616AQES7KcfD-7W1A/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=Aa_7EdeSPRHL1Ck7ozGOQ0zorz4qU4o85-jGOBUzyK8 ">
 
 <!--
 **kuletha-rk/kuletha-rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
