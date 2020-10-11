@@ -2,7 +2,7 @@
 
 📫 How to reach me : https://www.linkedin.com/in/rishabh-kuletha-195375179/
 
-<img src="C:\Users\Rishabh\Dropbox\My PC (LAPTOP-4JLP9JNJ)\Desktop\rishabh_Desk_setup_full">
+![alt text](‪D:\rishabh_Desk_setup_full.jpg)
 
 <!--
 **kuletha-rk/kuletha-rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
