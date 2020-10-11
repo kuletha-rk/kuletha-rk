@@ -7,7 +7,7 @@
 - 💬 Ask me about ... my work
 - 📫 How to reach me: ... https://www.linkedin.com/in/rishabh-kuletha-195375179/
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Bazinga ! Connect for more jokes
+- ⚡ Fun fact: ... Let's deep dive into the world of analytics.....Bazinga ! #Connect for more jokes!
 
 ![alt text](rishabh_Desk_setup_full.jpg)
 
