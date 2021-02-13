@@ -7,7 +7,7 @@
 - 💬 Ask me about ... My work
 - 📫 How to reach me: ... https://www.linkedin.com/in/rishabh-kuletha-195375179/
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Scissors Cuts Paper. Paper Covers Rock. Rock Crushes Lizard (#tbbt)......Bazinga ! #Connect for more jokes!
+- ⚡ Fun fact: ... "Lizard poisons Spock. Spock smashes scissors. Scissors decapitates lizard. Lizard eats paper. Paper disproves Spock. Spock vaporizes rock. And, as it always has, rock crushes scissors."  (#tbbt)......Bazinga ! #Connect for more jokes!
 
 
 <!--
