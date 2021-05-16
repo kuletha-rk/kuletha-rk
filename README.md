@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on ...EDA/ Regression and analytics.
 - 🌱 I’m currently learning and working with ... Python3
-- 👯 I’m looking to collaborate on ... Analytics and Business Intelligence
-- 🤔 I’m looking for help with ... data visualization
+- 👯 I’m looking to collaborate on ...Data Analytics and Business Intelligence
+- 🤔 I’m looking for help with ... Data visualization
 - 💬 Ask me about ... My work
 - 📫 How to reach me: ... https://www.linkedin.com/in/rishabh-kuletha-195375179/
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... "Lizard poisons Spock. Spock smashes scissors. Scissors decapitates lizard. Lizard eats paper. Paper disproves Spock. Spock vaporizes rock. And, as it always has, rock crushes scissors."  (#tbbt)......Bazinga ! #Connect for more jokes!
+- 😄 Discord : ... kuletha#4214
+
 
 
 <!--
