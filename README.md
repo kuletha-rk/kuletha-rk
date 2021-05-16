@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on ...Data Analytics and Business Intelligence
 - 🤔 I’m looking for help with ... Data visualization
 - 💬 Ask me about ... My work
-- 📫 How to reach me: ... https://www.linkedin.com/in/rishabh-kuletha-195375179/
 - 😄 Discord : ... kuletha#4214
 
 
