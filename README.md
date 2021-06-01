@@ -1,7 +1,7 @@
 ### Hi, this is Rishabh, working as Business Analyst. Feel free to connect with me via linkedin! 👋
 
 - 🔭 I’m currently working on ...EDA/ Regression and analytics.
-- 🌱 I’m currently learning and working with ... Python3
+- 🌱 I’m currently learning and working with ... Python3, Tableau
 - 👯 I’m looking to collaborate on ...Data Analytics and Business Intelligence
 - 🤔 I’m looking for help with ... Data visualization
 - 💬 Ask me about ... My work
