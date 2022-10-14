@@ -1,4 +1,4 @@
-### Hi, this is Rishabh, working as Business Analyst. Feel free to connect with me via linkedin! 👋
+### Hi, this is Rishabh, working as Program Lead. Feel free to connect with me via linkedin! 👋
 
 - 🔭 I’m currently working on ...EDA/ Regression and analytics.
 - 🌱 I’m currently learning and working with ... Python3, Postgress, Tableau
